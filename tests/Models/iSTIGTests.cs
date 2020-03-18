@@ -1,10 +1,7 @@
 using Xunit;
 using openrmf_save_api.Models;
 using System;
-<<<<<<< HEAD
-=======
 using System.Collections.Generic;
->>>>>>> Added/Changed tests for Models and Data
 
 namespace tests.Models
 {
